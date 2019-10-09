@@ -12,8 +12,8 @@ Run the program by using the makefile.
 
 ## Commands
 
-* To bounch the ball, press "D"
-* To Reset, press "R"
+* To bounch the ball, press ```D```
+* To Reset, press ```R```
 * To move the teapot and ball, click anywhere in the four quadrant.
 * To rotate the teapot,tap and hold the left(<-) and right(->) directional button.
 
